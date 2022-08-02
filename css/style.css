@@ -1,0 +1,41 @@
+body {
+    margin: 20px;
+}
+
+.img {
+    width: 170px;
+    padding-top: 10px;
+}
+
+.titulo {
+    font-family: bold;
+}
+
+.have {
+    padding-bottom: 20px;
+
+}
+
+.input {
+    width: 310px;
+    height: 22px;
+    margin-top: 7px;
+}
+
+.btn {
+    width: 125px;
+    height: 25px;
+}
+
+.ask {
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.btnn {
+    width: 230px;
+    height: 25px;
+    font-family: ;
+}
+
+
